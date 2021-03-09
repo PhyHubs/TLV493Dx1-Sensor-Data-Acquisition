@@ -4,7 +4,7 @@
 
 
 
-Basic setup for acquiring data from Infineon's TLV493D 3D encoder with Infineon's XMC1100. Ben Zheng 
+Basic setup for acquiring data from Infineon's TLV493D 3D encoder with Infineon's XMC1100.         By Ben Zheng, 01/06/2020 
 
 # Summary
 > The TLE493D Eval Board is a budget-priced evaluation board equipped with the magnetic sensor TLE493D for three dimensional measurement combined with an ARM® Cortex™-M0 CPU. The 3D Magnetic Sensor 2GO has a complete set of on-board devices, including an on-board debugger. Build your own application and gadget with the 3D Magnetic Sensor 2GO.
